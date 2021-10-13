@@ -1,7 +1,7 @@
 
 # Patterns in LeetCode
 
-### [Pattern-1] ✔
+### Pattern-1 ✔
 
-- [Two Sum with given sum]
-- [Three Sum with given sum]
+- Two Sum with given sum
+- Three Sum with given sum
